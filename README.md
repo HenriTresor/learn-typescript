@@ -7,4 +7,4 @@ for more info :
 
   * email : shimwamanahenritresor@gmail.com
   * linkedIn : https://www.linkedin.com/in/henri-tresor-21b292259/
-  * twitter : https://twitter.com/Henri_Tresor_ 
+  * twitter : https://twitter.com/Henri_Tresor_ . 
