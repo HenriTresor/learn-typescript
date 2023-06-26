@@ -5,6 +5,6 @@ this is a step by step learning journey for typescript
 
 for more info :
 
-  * email : shimwamanahenritresor@gmail.com
-  * linkedIn : https://www.linkedin.com/in/henri-tresor-21b292259/
-  * twitter : https://twitter.com/Henri_Tresor_ . 
+  * <a href="mailto:shimwamanahenritresor@gmail.com">email </a> |
+  * <a href="https://www.linkedin.com/in/henri-tresor-21b292259/">linkedIn</a> |
+  * <a href="https://twitter.com/Henri_Tresor_">twitter</a> 
