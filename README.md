@@ -6,5 +6,5 @@ this is a step by step learning journey for typescript
 for more info :
 
   * <a href="mailto:shimwamanahenritresor@gmail.com">email </a> |
-  * <a href="https://www.linkedin.com/in/henri-tresor-21b292259/">linkedIn</a> |
-  * <a href="https://twitter.com/Henri_Tresor_">twitter</a> 
+  * <a href="https://www.linkedin.com/in/henri-tresor-21b292259/" target="_blank">linkedIn</a> |
+  * <a href="https://twitter.com/Henri_Tresor_" target="_blank">twitter</a> 
