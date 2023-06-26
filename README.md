@@ -5,6 +5,6 @@ this is a step by step learning journey for typescript
 
 for more info :
 
-  * email : mutesacedric@gmail.com
-  * linkedIn : https://www.linkedin.com/in/mutesa-cedric/
-  * twitter : https://twitter.com/CedricMutesa 
+  * email : shimwamanahenritresor@gmail.com
+  * linkedIn : https://www.linkedin.com/in/henri-tresor-21b292259/
+  * twitter : https://twitter.com/Henri_Tresor_ 
